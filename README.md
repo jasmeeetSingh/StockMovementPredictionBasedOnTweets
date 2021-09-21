@@ -1,7 +1,5 @@
 # stock-movement-prediction-based-on-tweets
-A simple beginner level project the analyses the tweets from various users for a few companies to predict the movement of stock price
-
-The project is in progress 
+A simple beginner level project the analyses the tweets from various users for a few companies to predict the movement of stock price 
 
 Datasets available here:
 1. https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
